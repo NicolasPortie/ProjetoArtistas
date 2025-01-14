@@ -1,0 +1,14 @@
+C:\Projetos C#\ProjetoArtistas\ProjetoArtistas\bin\Debug\net8.0\ProjetoArtistas.exe
+C:\Projetos C#\ProjetoArtistas\ProjetoArtistas\bin\Debug\net8.0\ProjetoArtistas.deps.json
+C:\Projetos C#\ProjetoArtistas\ProjetoArtistas\bin\Debug\net8.0\ProjetoArtistas.runtimeconfig.json
+C:\Projetos C#\ProjetoArtistas\ProjetoArtistas\bin\Debug\net8.0\ProjetoArtistas.dll
+C:\Projetos C#\ProjetoArtistas\ProjetoArtistas\bin\Debug\net8.0\ProjetoArtistas.pdb
+C:\Projetos C#\ProjetoArtistas\ProjetoArtistas\obj\Debug\net8.0\ProjetoArtistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos C#\ProjetoArtistas\ProjetoArtistas\obj\Debug\net8.0\ProjetoArtistas.AssemblyInfoInputs.cache
+C:\Projetos C#\ProjetoArtistas\ProjetoArtistas\obj\Debug\net8.0\ProjetoArtistas.AssemblyInfo.cs
+C:\Projetos C#\ProjetoArtistas\ProjetoArtistas\obj\Debug\net8.0\ProjetoArtistas.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoArtistas\ProjetoArtistas\obj\Debug\net8.0\ProjetoArtistas.dll
+C:\Projetos C#\ProjetoArtistas\ProjetoArtistas\obj\Debug\net8.0\refint\ProjetoArtistas.dll
+C:\Projetos C#\ProjetoArtistas\ProjetoArtistas\obj\Debug\net8.0\ProjetoArtistas.pdb
+C:\Projetos C#\ProjetoArtistas\ProjetoArtistas\obj\Debug\net8.0\ProjetoArtistas.genruntimeconfig.cache
+C:\Projetos C#\ProjetoArtistas\ProjetoArtistas\obj\Debug\net8.0\ref\ProjetoArtistas.dll
